@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+  --font-grotesk: "Anton", sans-serif;
+  --font-condiment: "Condiment", cursive;
+  --color-cream: #EFF4FF;
+  --color-neon: #6FFF00;
+}
