@@ -27,6 +27,7 @@ export default function Navbar() {
           <div className="hidden md:flex gap-8 font-mono text-sm uppercase">
             <a href="#collections" className="hover:text-neon transition-colors">Collections</a>
             <a href="#arrivals" className="hover:text-neon transition-colors">New Arrivals</a>
+            <a href="#gallery" className="hover:text-neon transition-colors">Gallery</a>
             <a href="#visit" className="hover:text-neon transition-colors">Visit Us</a>
           </div>
           <div className="hidden md:flex items-center gap-4">
@@ -68,6 +69,7 @@ export default function Navbar() {
         <div className="flex flex-col flex-1 justify-center items-center gap-10 p-8 font-grotesk text-4xl uppercase text-cream/80">
           <a href="#collections" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-neon transition-all hover:scale-110 hover:-rotate-2">Collections</a>
           <a href="#arrivals" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-neon transition-all hover:scale-110 hover:rotate-2">New Arrivals</a>
+          <a href="#gallery" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-neon transition-all hover:scale-110 hover:-rotate-2">Gallery</a>
           <a href="#visit" onClick={() => setIsMobileMenuOpen(false)} className="hover:text-neon transition-all hover:scale-110 hover:-rotate-2">Visit Us</a>
         </div>
         

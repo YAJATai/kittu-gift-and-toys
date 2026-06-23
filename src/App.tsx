@@ -7,6 +7,7 @@ import HeroSection from './components/HeroSection';
 import Navbar from './components/Navbar';
 import CategoriesSection from './components/CategoriesSection';
 import FeaturedProductsSection from './components/FeaturedProductsSection';
+import GallerySection from './components/GallerySection';
 import VisitUsSection from './components/VisitUsSection';
 import Footer from './components/Footer';
 import BackToTopButton from './components/BackToTopButton';
@@ -18,6 +19,7 @@ export default function App() {
       <HeroSection />
       <CategoriesSection />
       <FeaturedProductsSection />
+      <GallerySection />
       <VisitUsSection />
       <Footer />
       <BackToTopButton />
