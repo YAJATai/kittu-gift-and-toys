@@ -18,6 +18,13 @@ export default function CategoriesSection() {
     { name: "Baby Blankets & Pillows", id: "16", image: "https://images.unsplash.com/photo-1596461422482-33f2181e5f29?auto=format&fit=crop&q=80&w=800" },
     { name: "Mosquito Nets", id: "17", image: "https://images.unsplash.com/photo-1596461422482-33f2181e5f29?auto=format&fit=crop&q=80&w=800" },
     { name: "Diaper Bags", id: "18", image: "https://images.unsplash.com/photo-1596461422482-33f2181e5f29?auto=format&fit=crop&q=80&w=800" },
+    { name: "Colour Pencils", id: "19", image: "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&q=80&w=800" },
+    { name: "Sketch Pens & Crayons", id: "20", image: "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&q=80&w=800" },
+    { name: "Notebooks & Diaries", id: "21", image: "https://images.unsplash.com/photo-1498075702571-ecb018f37596?auto=format&fit=crop&q=80&w=800" },
+    { name: "Pens & Pencils", id: "22", image: "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&q=80&w=800" },
+    { name: "Erasers & Sharpeners", id: "23", image: "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&q=80&w=800" },
+    { name: "Geometry Boxes", id: "24", image: "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?auto=format&fit=crop&q=80&w=800" },
+    { name: "School Bags & Trolley Bags", id: "25", image: "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&q=80&w=800" },
   ];
 
   return (
